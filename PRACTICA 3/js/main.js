@@ -62,7 +62,7 @@ console.log(Frutas2);
 console.log(removerFrutas);
 
 
-console.log("---------------------8-------------------------")
+console.log(" --------------------8-------------------------")
 //8 - forEach(): Ejecuta una función para cada elemento del array.
 
 
