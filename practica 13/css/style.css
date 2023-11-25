@@ -1,6 +1,4 @@
-:root{
-    --primary-color: #3498db;
-}
+
 /* DEFAULT */
 body{
     font-family: Arial, sans-serif;
@@ -9,7 +7,6 @@ body{
     display: flex;
     flex-direction: column;
 }
-
 .fa-button{
     padding: 10px 20px;
     min-width: 100px;
@@ -18,7 +15,6 @@ body{
     cursor: pointer;
     border-style: none;
     border-radius: 10px;
-    
 }
 
 
